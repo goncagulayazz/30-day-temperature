@@ -3,7 +3,7 @@
 This project simulates daily temperature data for a 30-day period using Python's NumPy library and visualizes it with Matplotlib. The temperatures are generated randomly based on a normal distribution, allowing a simple demonstration of data generation, basic statistics, and data visualization.
 
 📊 What This Project Does
-* Simulates daily temperatures based on a normal distribution (mean: 25°C, std: 5°C)
+* Simulates daily temperatures based on a normal distribution (mean: 22°C, std: 3°C)
 * Calculates:
    -Average temperature
    -Minimum and maximum temperatures
