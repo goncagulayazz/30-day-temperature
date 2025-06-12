@@ -1,4 +1,4 @@
-# 30-day-temperature
+# 30-day-temperature 🌡️
 📋 Description
 This project simulates daily temperature data for a 30-day period using Python's NumPy library and visualizes it with Matplotlib. The temperatures are generated randomly based on a normal distribution, allowing a simple demonstration of data generation, basic statistics, and data visualization.
 
